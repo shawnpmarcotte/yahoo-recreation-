@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.navbar1 {
+    display: flex;
+    background-color: blueviolet;
+  }
+  .navbar2 {
+    display: flex;
+    background-color: blueviolet;
+  }
+  span {
+    color: burlywood;
+    padding: 1rem;
+    margin-left: 10rem;
+    font-size: 20px;
+  }
+h1 {
+    position: absolute;
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: .65rem;
+    margin-left: 13rem;
+}
+nav form {
+    position: absolute;
+    margin-top: .80rem;
+    margin-left: 20rem;
+}
+.navpic{
+    margin-left: 115rem;
+    border-radius: 100%;
+    border: none;
+    height: 35px;
+    width: 35px;
+    padding-top: 12px;
+    padding-bottom: 7px;
+  }
+  .jesse {
+      background-position: center;
+  }
+  #section1 {
+      height: 500px;
+      background-image: url(https://media.npr.org/assets/img/2015/08/31/ap_842756722190_slide-d0b2a48f281433f00ba4172edbb435b119375ca1-s800-c85.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+  #section1 p1 { 
+        position: absolute;
+        font-size: 60px;
+        bottom: 57rem;
+        left: 5rem;
+        color: black;
+  }
+  #section1 p2 { 
+    position: absolute;
+    font-size: 30px;
+    bottom: 53rem;
+    left: 5rem;
+    color: black;
+  }
+  #section1 p3 { 
+    position: absolute;
+    font-size: 30px;
+    font-style: italic;
+    bottom: 48rem;
+    left: 5rem;
+    color: black;
+  }
+  #section2 {
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: lightgray;
+      padding: 20px;
+  }
+  #section2 p {
+    margin-bottom: 0;
+  }
+  #section3 {
+    height: 500px;
+    background-image: url(https://thumbs.imagekind.com/4732990_650/Ferris-Wheel-at-Navy-Pier-Chicago_art.jpg?v=1492778753);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: blueviolet;
+  }
+  #section3 p1 {
+        font-size: 40px;
+        position: absolute;
+        top: 54rem;
+        bottom: 8px;
+        left: 5rem;
+  }
+  #section3 p2 {
+    font-size: 20px;
+    position: absolute;
+    top: 58rem;
+    bottom: 8px;
+    left: 5rem;
+  }
+  #section3 p3 {
+    font-size: 10px;
+    position: absolute;
+    top: 61rem;
+    bottom: 8px;
+    left: 5rem;
+  }
+  button{
+    font-family: inherit;
+    padding: 0 16px;
+    font-size: 0.8rem;
+    color: burlywood;
+    margin: 4px 4px;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 0px;
+    height: 36px;
+    line-height: 36px;
+    position: absolute;
+    top: 63rem;
+    bottom: 8px;
+    left: 4.6rem;
+  }
+
